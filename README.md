@@ -1,6 +1,6 @@
 # final_project
 
-A new Flutter project.
+Unfinished Project
 
 ## Getting Started
 
